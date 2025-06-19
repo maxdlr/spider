@@ -1,0 +1,17 @@
+Adobe After Effects v23.6.9 Windows 64 render log for project “spider copy 23.x.aep”
+
+Rendering started on 6/19/2025 at 8:08:44 PM
+
+  6/19/2025 8:08:45 PM: Starting composition “spider 2”.
+
+  Output To: C:\Users\maxro\Documents\spider\spider-turnaround.mp4    6/19/2025 8:10:00 PM: Finished composition “spider 2”.
+
+
+  6/19/2025 8:10:03 PM: Starting composition “spider.master”.
+
+  Output To: C:\Users\maxro\Documents\spider\spider.mp4    6/19/2025 8:19:29 PM: Finished composition “spider.master”.
+
+
+  Total Time Elapsed: 10 Min, 45 Sec
+Log closed on 6/19/2025 at 8:19:30 PM
+
